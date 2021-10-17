@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">🏫 A high school student & developer 🖥️</h3>
-
-## Portfolio
-
-[In Developpement... 🛠️](./error404)
+```                                                                
+                    8 8888         8 8888      88     ,o888888o.             .8.          
+                     8 8888         8 8888      88    8888     `88.          .888.         
+                     8 8888         8 8888      88 ,8 8888       `8.        :88888.        
+                      8 8888         8 8888      88 88 8888                 . `88888.       
+                       8 8888         8 8888      88 88 8888                .8. `88888.      
+                       8 8888         8 8888      88 88 8888               .8`8. `88888.     
+                       8 8888         8 8888      88 88 8888              .8' `8. `88888.    
+                      8 8888         ` 8888     ,8P `8 8888       .8'   .8'   `8. `88888.   
+                       8 8888           8888   ,d8P     8888     ,88'   .888888888. `88888.  
+                        8 888888888888    `Y88888P'       `8888888P'    .8'       `8. `88888. 
+```
+<h3 align="center">🏫 High school student & developer 🖥️</h3>
 
 ## Discord
 
@@ -11,4 +18,12 @@
 
 ## Capacities
 
-<div><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="70px"/><img src="https://image.flaticon.com/icons/png/512/732/732212.png" height="70px"/><img src="https://image.flaticon.com/icons/png/512/732/732190.png" height="70px"/><img src="https://image.flaticon.com/icons/png/512/136/136530.png" height="70px"/><img src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Raspberry_Pi_logo.svg" height="70px"/> <img type="img/svg" src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="70px"/></div>
+- Python
+- HTML/CSS/JS
+- Raspberry and Raspbian
+- Ubuntu
+- Windows 10
+- Bash
+- HTTP
+- Markdown
+- Organisation
