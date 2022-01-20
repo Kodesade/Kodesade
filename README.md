@@ -8,12 +8,10 @@
 ## Capacities
 
 - Python
-- HTML/CSS/JS
+- Web
+- Markdown
+- Bash
+- Go
 - Raspberry and Raspbian
 - Ubuntu
-- Windows 10
-- Bash
-- HTTP
-- Markdown
-- Organisation
-- Go
+- Windows 10/11
