@@ -15,3 +15,5 @@
 - Raspberry and Raspbian
 - Ubuntu
 - Windows 10/11
+- C#
+- 📚 C
