@@ -1,19 +1,24 @@
-![banner](./pics/banner_github.jpg)
-<h3 align="center">🏫 High school student & developer 🖥️</h3>
+### Hi! :thumbsup:
 
-## Discord
+🇫I'm Luca, a young 🇫🇷 dev who :heart: web tech, love find little hacks and expand her knowledges.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/325644794049200129)](https://discord.com/users/325644794049200129)
+👨‍🎓 I'm still in school, I am studying STI2D SIN.
 
-## Capacities
+### Skills History
 
-- Python
-- Web
-- Markdown
+- 12y : HTML, CSS and NodeJS (DiscordJS)
+- 13y : Python
+- 14y : Sass and Javascript
+- 15y : VueJS, TailwindCSS and SQL
+
+### Others knowledges...
+
 - Bash
-- Go
-- Raspberry and Raspbian
-- Ubuntu
-- Windows 10/11
-- C#
-- 📚 C
+- C, C++, C#
+- Golang
+- HTTP
+- Lua
+- PHP
+- Ruby
+- SVG
+- Typescript
