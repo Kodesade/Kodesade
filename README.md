@@ -22,3 +22,8 @@
 - Ruby
 - SVG
 - Typescript
+
+### Discord
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/325644794049200129)](https://discord.com/users/325644794049200129)
