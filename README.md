@@ -1,6 +1,6 @@
 ### Hi! :thumbsup:
 
-🇫I'm Luca, a young 🇫🇷 dev who :heart: web tech, love find little hacks and expand her knowledges.
+I'm Luca, a young 🇫🇷 dev who :heart: web tech, love find little hacks and expand her knowledges.
 
 👨‍🎓 I'm still in school, I am studying STI2D SIN.
 
@@ -9,7 +9,7 @@
 - 12y : HTML, CSS and NodeJS (DiscordJS)
 - 13y : Python
 - 14y : Sass and Javascript
-- 15y : VueJS, TailwindCSS and SQL
+- 15y : VueJS, TailwindCSS, SQL and Ruby
 
 ### Others knowledges...
 
@@ -19,7 +19,6 @@
 - HTTP
 - Lua
 - PHP
-- Ruby
 - SVG
 - Typescript
 
