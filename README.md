@@ -1,17 +1,17 @@
-### Hi! :thumbsup:
+### Hi there! :thumbsup:
 
-I'm Luca, a young 🇫🇷 dev who :heart: web tech, love find little hacks and expand her knowledges.
+I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding little hacks and expanding my knowledge.
 
-👨‍🎓 I'm still in school, I am studying STI2D SIN.
+👨‍🎓 I am currently in school, studying STI2D SIN.
 
 ### Skills History
 
-- 12y : HTML, CSS and NodeJS (DiscordJS)
-- 13y : Python
-- 14y : Sass and Javascript
-- 15y : VueJS, TailwindCSS, SQL and Ruby
+- At age 12, I learned HTML, CSS, and NodeJS (with a focus on DiscordJS).
+- At age 13, I started learning Python.
+- At age 14, I added Sass and JavaScript to my skillset.
+- At age 15, I learned VueJS, TailwindCSS, SQL, and Ruby.
 
-### Others knowledges...
+### Other knowledge:
 
 - Bash
 - C, C++, C#
@@ -23,6 +23,5 @@ I'm Luca, a young 🇫🇷 dev who :heart: web tech, love find little hacks and 
 - Typescript
 
 ### Discord
-
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/325644794049200129)](https://discord.com/users/325644794049200129)
