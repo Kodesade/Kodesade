@@ -2,7 +2,7 @@
 
 I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding little hacks and expanding my knowledge.
 
-👨‍🎓 I am currently in school, studying STI2D SIN.
+👨‍🎓 I Learn by myself.
 
 ### Skills History
 
