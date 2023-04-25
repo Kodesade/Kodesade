@@ -10,6 +10,7 @@ I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding littl
 - At age 13, I started learning Python.
 - At age 14, I added Sass and JavaScript to my skillset.
 - At age 15, I learned VueJS, TailwindCSS, SQL, and Ruby.
+- At age 16, I start learning Rust and others about the web.
 
 ### Other knowledge:
 
