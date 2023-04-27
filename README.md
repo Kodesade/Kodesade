@@ -26,3 +26,7 @@ I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding littl
 ### Discord
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/325644794049200129)](https://discord.com/users/325644794049200129)
+
+### CodinGame
+
+ - [My profile](https://www.codingame.com/profile/ba4086c40f7b15117e6a7552b3ade7093270194)
