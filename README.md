@@ -2,6 +2,8 @@
 
 I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding little hacks and expanding my knowledge.
 
+🏷️ Kodesade (pronunciation: [kodɛsɑdɛ])
+
 👨‍🎓 I Learn by myself.
 
 ### Skills History
