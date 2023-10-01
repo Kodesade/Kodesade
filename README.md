@@ -1,34 +1,15 @@
-### Hi there! :thumbsup:
+### Hi there! 😄:
 
-I'm Luca, a young 🇫🇷 dev who loves web technology and enjoys finding little hacks and expanding my knowledge.
+I'm Luca, a young 🇫🇷 boy who loves math and enjoys finding little hacks and expanding my knowledge.
 
 🏷️ Kodesade (pronunciation: [kodɛsɑdɛ])
 
 👨‍🎓 I Learn by myself.
 
-### Skills History
+### My environment:
 
-- At age 12, I learned HTML, CSS, and NodeJS (with a focus on DiscordJS).
-- At age 13, I started learning Python.
-- At age 14, I added Sass and JavaScript to my skillset.
-- At age 15, I learned VueJS, TailwindCSS, SQL, and Ruby.
-- At age 16, I start learning Rust and others about the web.
-
-### Other knowledges:
-
-- Bash
-- C, C++, C#
-- Golang
-- HTTP
-- Lua
-- PHP
-- SVG
-- Typescript
-
-### Discord
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/325644794049200129)](https://discord.com/users/325644794049200129)
+<img src="./svg/archlinux.svg" height="45px"/> <img src="./svg/ytmusic.svg" height="45px"/> <img src="./svg/ruby.svg" height="45px"/> <img src="./svg/kitty.svg" height="45px"/> <img src="./svg/awesomewm.svg" height="45px"/>
 
 ### CodinGame
 
- - [My profile](https://www.codingame.com/profile/ba4086c40f7b15117e6a7552b3ade7093270194)
+[![Profile Link](https://static.codingame.com/servlet/fileservlet?id=102373223451105&format=profile_avatar)](https://www.codingame.com/profile/ba4086c40f7b15117e6a7552b3ade7093270194)
