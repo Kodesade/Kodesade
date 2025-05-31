@@ -6,7 +6,7 @@ I'm Luca, a young 🇫🇷 boy who loves math and enjoys finding little hacks an
 
 👨‍🎓 I Learn by myself.
 
-🔗 [Link to my website](https://elow-dev.xyz/me)
+🔗 [Link to my website](https://elow-dev.xyz/)
 
 ### CodinGame
 
